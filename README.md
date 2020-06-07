@@ -9,3 +9,5 @@ activate it (depends on your shell)
 or it can be `. venv/bin/activate.fish`
 #### Install requirements
 `pip install -r requirements.txt`
+#### Start jupyter notebook
+`jupyter notebook`
