@@ -1,0 +1,8 @@
+add 
+\usepackage[T2A]{fontenc}
+\usepackage[english, ukrainian]{babel}
+
+then convert to pdf
+e.t.
+`jupyter nbconvert --to latex file.ipynb`
+`pdflatex file.tex`
